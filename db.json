@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"DailyAuthData":[{
+  "Date": "04/08",
+  "Total": "100",
+  "Processed": "40",
+  "Resolved":"10"
+},
+{
+  "Date": "05/08",
+  "Total": "130",
+  "Processed": "40",
+  "Resolved":"10"
+},
+{
+  "Date": "06/08",
+  "Total": "160",
+  "Processed": "70",
+  "Resolved":"10"
+}
+]
 }
