@@ -1,172 +1,184 @@
 {
-  "DailyAuthData": [
+  "startDate": "2019-04-21",
+  "endDate": "2019-05-21",
+  "data": [
     {
-      "Date": "04/08",
-      "Total": 100,
-      "Processed": 40,
-      "Resolved": 10
+      "date": "2019-04-21",
+      "totalReferrals": 100,
+      "processedReferrals": 80,
+      "autorizedReferrals": 10
+    },
+     {
+      "date": "2019-04-22",
+      "totalReferrals": 123,
+      "processedReferrals": 56,
+      "autorizedReferrals": 4
+    },
+     {
+      "date": "2019-04-23",
+      "totalReferrals": 354,
+      "processedReferrals": 232,
+      "autorizedReferrals": 100
+    },
+     {
+      "date": "2019-04-24",
+      "totalReferrals": 200,
+      "processedReferrals": 170,
+      "autorizedReferrals": 20
+    },
+     {
+      "date": "2019-04-25",
+      "totalReferrals": 400,
+      "processedReferrals":200,
+      "autorizedReferrals": 100
+    },
+     {
+      "date": "2019-04-26",
+      "totalReferrals": 100,
+      "processedReferrals": 40,
+      "autorizedReferrals": 38
+    },
+     {
+      "date": "2019-04-27",
+      "totalReferrals": 600,
+      "processedReferrals": 500,
+      "autorizedReferrals": 300
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "05/08",
-      "Total": 100,
-      "Processed": 45,
-      "Resolved": 15
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "06/08",
-      "Total": 100,
-      "Processed": 30,
-      "Resolved": 20
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "07/08",
-      "Total": 100,
-      "Processed": 60,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "08/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "09/08",
-      "Total": 100,
-      "Processed": 20,
-      "Resolved": 20
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "10/08",
-      "Total": 100,
-      "Processed": 75,
-      "Resolved": 30
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "11/08",
-      "Total": 100,
-      "Processed": 30,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "12/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "13/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10      
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "14/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10      
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "15/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    },
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
     {
-      "Date": "16/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     },
-    {
-      "Date": "17/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "18/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10      
-    },
-    {
-      "Date": "19/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "20/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "21/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "22/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "23/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "24/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "100/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "26/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "27/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "28/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "29/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "30/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
-    },
-    {
-      "Date": "31/08",
-      "Total": 100,
-      "Processed": 70,
-      "Resolved": 10
+     {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    }, {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
+    }, {
+      "date": "2019-04-28",
+      "totalReferrals": 190,
+      "processedReferrals": 33,
+      "autorizedReferrals": 23
     }
   ]
 }
